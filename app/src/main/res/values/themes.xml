@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FinalUygulamasi" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Varsayılan Buton Renkleri -->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:buttonStyle">@style/BlackButtonStyle</item>
+    </style>
+</resources>
